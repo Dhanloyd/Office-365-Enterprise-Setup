@@ -13,6 +13,7 @@
 ---
 
 Link:
+
 [![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://codeload.github.com/abdullah-erturk/Office-365-Enterprise-Setup/zip/refs/heads/main?token=ANCTFG76R2XPABAHBPMOGGTJFHMMA)
 
 <details>
