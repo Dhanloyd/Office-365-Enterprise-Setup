@@ -71,7 +71,7 @@ Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine
         │               │
         │               └────────────────────────16.xxxxx.xxxxx
         └───64
-            └───tr-TR
+            └───tr-TR (veya EN-US vb.)
                 └───Office
                     └───Data
                         │   v64.cab
@@ -154,7 +154,7 @@ It allows users to choose the preferred architecture (32-bit or 64-bit) and the 
         │               │
         │               └────────────────────────16.xxxxx.xxxxx
         └───64
-            └───tr-TR
+            └───tr-TR (or en-US etc.)
                 └───Office
                     └───Data
                         │   v64.cab
