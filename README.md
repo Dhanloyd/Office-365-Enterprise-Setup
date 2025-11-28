@@ -14,7 +14,7 @@
 
 Link:
 
-[![Stable?](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup/archive/refs/heads/main.zip)
+[![Stable?]([https://github.com/abdullah-erturk/Office-365-Enterprise-Setup/archive/refs/heads/main.zip](https://codeload.github.com/abdullah-erturk/Office-365-Enterprise-Setup/zip/refs/heads/main))
 
 <details>
 <summary><strong>Türkçe Tanıtım</strong></summary>
