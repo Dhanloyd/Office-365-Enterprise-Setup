@@ -18,7 +18,6 @@
 
 <details>
 <summary><strong>Türkçe Tanıtım</strong></summary>
-
 ---
 ## 📌 Office 365 Enterprise Otomatik Çevrimdışı / Çevrimiçi Kurulum Aracı (PowerShell Betiği)
 
@@ -102,9 +101,7 @@ PowerShell 5.1 veya üstü
 
 <details>
 <summary><strong>English Description</strong></summary>
-
 ---
-
 ## 📌 Office 365 Enterprise Automated Offline/Online Installer (PowerShell Script)
 
 This powershell application is a fully automated, user-friendly PowerShell script designed to install Microsoft Office 365 in both offline and online modes.
