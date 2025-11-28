@@ -19,7 +19,8 @@
 <details>
 <summary><strong>Türkçe Tanıtım</strong></summary>
 ---
-## 📌 Office 365 Enterprise Otomatik Çevrimdışı / Çevrimiçi Kurulum Aracı (PowerShell Betiği)
+
+  ## 📌 Office 365 Enterprise Otomatik Çevrimdışı / Çevrimiçi Kurulum Aracı (PowerShell Betiği)
 
 Bu powershell uygulaması, Microsoft Office 365 kurulumunu hem çevrimdışı (offline) hem de çevrimiçi (online) olarak otomatikleştirmek için hazırlanmış gelişmiş bir PowerShell betiğidir.
 Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine olanak tanır. Betik, kurulum dosyalarının bulunduğu dizini otomatik algılar ve temiz bir Office kurulumu yapar.
@@ -102,7 +103,8 @@ PowerShell 5.1 veya üstü
 <details>
 <summary><strong>English Description</strong></summary>
 ---
-## 📌 Office 365 Enterprise Automated Offline/Online Installer (PowerShell Script)
+
+  ## 📌 Office 365 Enterprise Automated Offline/Online Installer (PowerShell Script)
 
 This powershell application is a fully automated, user-friendly PowerShell script designed to install Microsoft Office 365 in both offline and online modes.
 It allows users to choose the preferred architecture (32-bit or 64-bit) and the installation language dynamically. The script automatically detects the correct folder structure and initiates a clean Office deployment using your pre-downloaded installation files.
