@@ -90,7 +90,7 @@ Kurulum otomatik başlatılır. (online veya offline)
 
 ## 🧩 Gereksinimler
 
-Windows 10 / Windows 11
+Windows 10 / Windows 11 / Server (Minimum Server versiyonu: Windows Server 2012 R2)
 
 Yönetici yetkisi
 
@@ -175,7 +175,7 @@ Installation starts automatically. (online or offline)
 
 ## 🧩 Requirements
 
-Windows 10 / 11
+Windows 10 / 11 / Server (Minimum Server version: Windows Server 2012 R2)
 
 Administrator privileges
 
