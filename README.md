@@ -8,7 +8,7 @@
 [![made-for-windows](https://img.shields.io/badge/Made%20for-Windows-00A4E3.svg?style=flat&logo=microsoft)](https://www.microsoft.com/)
 [![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup)
 
-![sample]()
+![sample](https://raw.githubusercontent.com/abdullah-erturk/Office-365-Enterprise-Setup/refs/heads/main/preview.jpg?token=GHSAT0AAAAAADOK7MGIIPG6YTYHZFWQSHQA2JJ23RA)
 
 ---
 
