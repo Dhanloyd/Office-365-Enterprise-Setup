@@ -55,18 +55,30 @@ Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine
 
 📂 Klasör Yapısı
 ```
-o365.ps1
-└── Office365
-    ├── 32
-    │   └── tr-TR (veya EN-US vb.)
-    │       └── Office
-    │           └── Data
-    │               └── 16.0.xxxxx.xxxxx
-    └── 64
-        └── tr-TR (veya EN-US vb.)
-            └── Office
-                └── Data
-                    └── 16.0.xxxxx.xxxxx
+│   Office365_Install.bat
+│   autorun.inf
+└───Office
+    │   Check.bat
+    │   ico.ico
+    │   o365.ps1
+    │   setup.exe
+    └───Office365
+        ├───32
+        │   └───tr-TR (veya EN-US vb.)
+        │       └───Office
+        │           └───Data
+        │               │   v32.cab
+        │               │   v32_16.xxxxx.xxxxx.cab
+        │               │
+        │               └────────────────────────16.xxxxx.xxxxx
+        └───64
+            └───tr-TR
+                └───Office
+                    └───Data
+                        │   v64.cab
+                        │   v64_16.xxxxx.xxxxx.cab
+                        │
+                        └────────────────────────16.xxxxx.xxxxx
 ```
 ## 🚀 Kullanım
 
@@ -128,18 +140,30 @@ It allows users to choose the preferred architecture (32-bit or 64-bit) and the 
 
 ## 📂 Folder Structure
 ```
-o365.ps1
-└── Office365
-    ├── 32
-    │   └── tr-TR ((or en-US etc.)
-    │       └── Office
-    │           └── Data
-    │               └── 16.0.xxxxx.xxxxx
-    └── 64
-        └── tr-TR ((or en-US etc.)
-            └── Office
-                └── Data
-                    └── 16.0.xxxxx.xxxxx
+│   Office365_Install.bat
+│   autorun.inf
+└───Office
+    │   Check.bat
+    │   ico.ico
+    │   o365.ps1
+    │   setup.exe
+    └───Office365
+        ├───32
+        │   └───tr-TR (or en-US etc.)
+        │       └───Office
+        │           └───Data
+        │               │   v32.cab
+        │               │   v32_16.xxxxx.xxxxx.cab
+        │               │
+        │               └────────────────────────16.xxxxx.xxxxx
+        └───64
+            └───tr-TR
+                └───Office
+                    └───Data
+                        │   v64.cab
+                        │   v64_16.xxxxx.xxxxx.cab
+                        │
+                        └────────────────────────16.xxxxx.xxxxx
 ```
 ## 🚀 Usage
 
