@@ -53,7 +53,7 @@ Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine
 
 ✔️ Hata yakalama ve loglama
 
-📂 Beklenen Klasör Yapısı
+📂 Klasör Yapısı
 ```
 o365.ps1
 └── Office365
@@ -126,7 +126,7 @@ It allows users to choose the preferred architecture (32-bit or 64-bit) and the 
 
 ✔️ Error handling and detailed logs
 
-## 📂 Expected Folder Structure
+## 📂 Folder Structure
 ```
 o365.ps1
 └── Office365
