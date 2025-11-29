@@ -83,7 +83,7 @@ Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine
 
 Yönetici olarak çalıştırın. (Office365_Install.bat dosyası sayesinde otomatik yönetici olarak çalıştırılır)
 
-Mimari ve dil seçin.
+Dil seçin.
 
 Kurulum otomatik başlatılır. (online veya offline)
 
@@ -166,7 +166,7 @@ It allows users to choose the preferred architecture (32-bit or 64-bit) and the 
 
 Run as Administrator. (Automatically runs as administrator thanks to the Office365_Install.bat file)
 
-Choose architecture + language.
+Choose anguage.
 
 Installation starts automatically. (online or offline)
 
